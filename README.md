@@ -9,7 +9,7 @@
 - 🚀 Always focused on learning and transforming ideas into real solutions that impact people and businesses.
 - 🎓 I study Systems Analysis and Development at Planalto University Center of the Federal District.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassouusa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaassousaa/)
 
 ---
 
