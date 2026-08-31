@@ -35,4 +35,4 @@
 
 ### 🧠 Side Projects & Experiments
 
-![Side](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pzbHBkdmlqYW42eHhjM3pwMWd5NXgwbXNrMzdpeWY2eHpsaWVocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif)
+![Autix](https://github.com/lusqueera/autix-frontend)
