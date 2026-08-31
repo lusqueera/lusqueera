@@ -35,4 +35,4 @@
 
 ### 🧠 Side Projects & Experiments
 
-![Autix](https://github.com/lusqueera/autix-frontend)
+[Autix](https://github.com/lusqueera/autix-frontend)
