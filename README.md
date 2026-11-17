@@ -33,7 +33,7 @@
 
 ---
 
-### 🧠 Side Projects & Experiments
+<!--### 🧠 Side Projects & Experiments-->
 
 <!--![Autix](https://github.com/lusqueera/autix-frontend) -->
 <!--![OTemplo](https://github.com/lusqueera/Otemplo)-->
